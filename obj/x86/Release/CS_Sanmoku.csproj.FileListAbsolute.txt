@@ -1,0 +1,9 @@
+c:\users\c011151736\documents\visual studio 2010\Projects\CS_Sanmoku\bin\Release\CS_Sanmoku.exe
+c:\users\c011151736\documents\visual studio 2010\Projects\CS_Sanmoku\bin\Release\CS_Sanmoku.pdb
+c:\users\c011151736\documents\visual studio 2010\Projects\CS_Sanmoku\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\c011151736\documents\visual studio 2010\Projects\CS_Sanmoku\obj\x86\Release\CS_Sanmoku.Form1.resources
+c:\users\c011151736\documents\visual studio 2010\Projects\CS_Sanmoku\obj\x86\Release\CS_Sanmoku.Properties.Resources.resources
+c:\users\c011151736\documents\visual studio 2010\Projects\CS_Sanmoku\obj\x86\Release\GenerateResource.read.1.tlog
+c:\users\c011151736\documents\visual studio 2010\Projects\CS_Sanmoku\obj\x86\Release\GenerateResource.write.1.tlog
+c:\users\c011151736\documents\visual studio 2010\Projects\CS_Sanmoku\obj\x86\Release\CS_Sanmoku.exe
+c:\users\c011151736\documents\visual studio 2010\Projects\CS_Sanmoku\obj\x86\Release\CS_Sanmoku.pdb
